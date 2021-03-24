@@ -8,7 +8,7 @@ int suma(int *, int *);
 
 int main()
 {
-    int a = 3, b = 8;
+    const int a = 3, b = 8;
     int wynik = suma(&a, &b);
     printf("%d", wynik);
     return 0;
