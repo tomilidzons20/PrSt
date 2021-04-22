@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1619087709 source:f:\programowanie\programowanie strukturalne\prst6\3.2.14\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
